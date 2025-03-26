@@ -1,2 +1,1 @@
-# MDMU:Multimodal Dynamic Mamba UNet for
-Multimodal sentiment analysis
+# MDMU:Multimodal Dynamic Mamba UNet for Multimodal sentiment analysis
